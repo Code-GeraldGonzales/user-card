@@ -1,0 +1,55 @@
+/* This is the white outside container */
+
+.container{
+    width: 650px;
+    height: 375px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    border: 2px solid;
+    border-color: rgb(173, 174, 174);
+}
+/* This is the blue box on the top */
+.top {
+    height: 125px;
+    background-color: rgb(113, 202, 250);
+    border-bottom: 2px solid;
+    border-color: rgb(173, 174, 174);
+}
+/* This is the head icon */
+.user-circle {
+    height: 100px;
+    margin-top: 75px;
+    margin-left: 50px;
+}
+/* This is the middle developer text */
+.info {
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+/* This the seattle line */
+.seattle {
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+/* This is the edit profile line */
+.edit {
+    font-size: 15px;
+    margin-left: 50px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+/* This is the pad & height of the map & gear imgs */
+.map-marker, .gear {
+    height: 15px;
+    padding-right: 5px;
+    
+}
+/* This is Jane Doe line */
+.name {
+    font-size: 45px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
